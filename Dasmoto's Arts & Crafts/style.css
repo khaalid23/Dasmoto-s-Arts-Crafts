@@ -1,0 +1,55 @@
+.header{
+ width: 99%;
+ height: 120px;
+ background: url(./imgs/pattern.jpeg);
+ margin: 5% auto 0;
+}
+.header h1{
+ font-size: 100px;
+ font-family: Helvetica;
+ font-weight: bold;
+ text-align: center;
+ color: khaki;
+}
+
+.purash h1{
+ background-color: mediumspringgreen;
+ font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+
+.purash p span{
+ font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+
+.Frames h1{
+ background-color: lightcoral;
+ font-family: Helvetica;
+ font-size: 32px;
+ font-weight: bold;
+ color: white;
+}
+
+.Frames p span{
+ font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+
+.Paint h1{
+ background-color: skyblue;
+ font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+
+.Paint p span{
+ font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
